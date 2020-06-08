@@ -1,21 +1,19 @@
 # algorithm
 
 #### 介绍
-算法学习
+算法学习(algorithm studying)
 
 #### 软件架构
-软件架构说明
+仅为java项目，j2ee,个人学习使用，如有问题，请指出
 
 
 #### 安装教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  使用git直接拉取dev分支即可：  git clone https://gitee.com/dr_dark/algorithm.git   --origin dev
 
-#### 使用说明
+#### 项目说明
 
-1.  xxxx
+1.  dichotomy项目：二分法
 2.  xxxx
 3.  xxxx
 
