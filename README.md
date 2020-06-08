@@ -13,7 +13,7 @@
 
 #### 项目说明
 
-1.  dichotomy项目：二分法
+1.  dichotomy项目：二分法查找
 2.  xxxx
 3.  xxxx
 
