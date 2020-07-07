@@ -40,7 +40,7 @@ public class Test {
         //所以，初始化开始索引和结束索引，然后在比较中，变动开始索引和结束索引
         int high = arr.length - 1;
         int low = 0;
-        while (low <= high) {
+        while (low <= high) {//只要范围没有缩小到只有一个元素
             //二分法，从中间开始比较
             //第一种：
            // int mid = (low + high) / 2;
@@ -68,7 +68,7 @@ public class Test {
      * @date 2020/6/9 19:47
      */
     private static int dichotomyRecursion(int low, int high, int[] arr, int num) {
-        if (low > high) return -1;
+        if (low > high) return -1;//只要范围没有缩小到只有一个元素
         int mid = (low + high) / 2;
         if (arr[mid] > num) { //num在中间之前
             //单独取出来，更加明了,high的变化
