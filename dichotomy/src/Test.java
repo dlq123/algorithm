@@ -70,17 +70,17 @@ public class Test {
     private static int dichotomyRecursion(int low, int high, int[] arr, int num) {
         if (low > high) return -1;//只要范围没有缩小到只有一个元素
         int mid = (low + high) / 2;
-        if (arr[mid] > num) { //num在中间之前
+        if (arr[mid] > num) { //num在中间之前   ==》递归条件
             //单独取出来，更加明了,high的变化
             high = mid - 1;
             return dichotomyRecursion(low, high, arr, num);
         }
-        if (arr[mid] < num) {//num在中间之后
+        if (arr[mid] < num) {//num在中间之后   ==》递归条件
             //单独取出来，更加明了，low的变化
             low = mid + 1;
             return dichotomyRecursion(low, high, arr, num);
         }
-        if (arr[mid] == num)
+        if (arr[mid] == num)  // ==》基线条件
             return mid;
         return -1;
     }
