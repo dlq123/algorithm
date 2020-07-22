@@ -7,7 +7,7 @@ import java.util.Arrays;
  * @Date 2020/6/8 15:49
  * @Created by dlq
  */
-public class Test {
+public class DichotomyTest {
     public static void main(String[] args) {
         //在使用二分法查找的时候，首先要将数据进行排序操作，
         int[] arr = {7, 5, 10, 32, 11, 67, 2, 1, 66, 4, 6, 9, 77, 55, 101, 89};
