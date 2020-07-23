@@ -3,9 +3,9 @@ package src;
 import java.util.Arrays;
 
 /**
+ * @author dlq
  * @Description 二分法查找
  * @Date 2020/6/8 15:49
- * @Created by dlq
  */
 public class DichotomyTest {
     public static void main(String[] args) {
