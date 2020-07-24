@@ -9,7 +9,7 @@
 
 #### 安装教程
 
-1.  使用git直接拉取dev分支即可：  git clone https://gitee.com/dr_dark/algorithm.git   --origin dev
+1.  使用git直接拉取dev分支即可：  git clone https://github.com/dlq123/algorithm.git   --origin dev
 
 #### 项目说明
 
