@@ -40,7 +40,7 @@ int mid = low + (high - low)/2;
 ```
 
 2.  quicksort项目
-3.  xxxx
+3.  手动实现一个hash表(hashMap)
 
 #### 参与贡献
 
@@ -48,4 +48,5 @@ int mid = low + (high - low)/2;
 2.  新建 Feat_xxx 分支
 3.  提交代码
 4.  新建 Pull Request
+5.  如需转载，请附上原地址和作者，谢谢。
 
