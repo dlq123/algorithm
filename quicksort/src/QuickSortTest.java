@@ -24,7 +24,7 @@ public class QuickSortTest {
      * @param: start 索引范围--起始索引位置
      * @param: end 索引范围--终止索引位置
      * @return void
-     * @author dengliqiang
+     * @author dlq
      * @date 2020/7/23 15:27
      */
     private static void quickSortRecursion(int[] arr, int start, int end) {
@@ -50,7 +50,7 @@ public class QuickSortTest {
      * @param: start 索引范围--起始索引位置
      * @param: end  索引范围--终止索引位置
      * @return int  返回基值的索引
-     * @author dengliqiang
+     * @author dlq
      * @date 2020/7/23 14:44
      */
     private static int divisionArr(int[] arr, int start, int end) {
