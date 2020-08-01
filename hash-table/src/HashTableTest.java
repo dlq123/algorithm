@@ -1,7 +1,8 @@
 package src;
 
-import src.demo.map.MyHashMap;
-import src.demo.map.MyMap;
+
+import src.demo.MyHashMap;
+import src.demo.MyMap;
 
 import java.util.HashMap;
 import java.util.Map;

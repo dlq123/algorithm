@@ -1,4 +1,4 @@
-package src.demo.map;
+package src.demo;
 
 import java.util.ArrayList;
 import java.util.List;
